@@ -1,4 +1,4 @@
-# GRAFANA + PROMETHEUS + ALERT
+# 🌐 GRAFANA + PROMETHEUS + ALERT
 ### Dashboard example for alerts in Grafana using Prometheu
 ### **Exporters**
 - node_exporter
@@ -23,3 +23,5 @@
 ![Dash4](./images/lg4.png)
 ![Dash5](./images/lg5.png)
 
+
+<img src="https://logodix.com/logo/1736776.png">
