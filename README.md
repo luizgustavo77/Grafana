@@ -5,7 +5,7 @@
 - blackbox_exporter
 ### **Install in Linux app monit**
 
-- [Grafana + Prometheus + node+exporter + blackbox+exporter](https://github.com/luizgustavo77/Estudos/blob/master/Grafana_Prometheus.md)
+- [Grafana + Prometheus + node+exporter + blackbox+exporter](https://github.com/luizgustavo77/Notes/blob/master/Cloud/Linux/Grafana_Prometheus.md)
 
 - [Json](https://github.com/luizgustavo77/Grafana/blob/master/dashboard/luizgustavo77-github-SERVER.json)
 
